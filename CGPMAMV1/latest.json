@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "latestVersion": "0.1.0",
   "url": "https://raw.githubusercontent.com/ChaewonFans/CGPMAMV1/main/CGPMAMV1/main/CGPMAMV1.zip",
@@ -5,3 +6,9 @@
   "mandatory": false,
   "notes": ""
 }
+=======
+﻿{
+  "version": "0.1.0",
+  "url": "https://raw.githubusercontent.com/ChaewonFans/CGPMAMV1/main/CGPMAMV1/main/CGPMAMV1.zip"
+}
+>>>>>>> 0cb75a6 (Re-add deploy contents (v0.1.0))
