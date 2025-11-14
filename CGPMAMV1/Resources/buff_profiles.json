@@ -1,0 +1,24 @@
+{
+  "profiles": [
+    {
+      "name": "default",
+      "cooldownMs": 220000,
+      "startDelayMs": 1000,
+      "sequence": [
+        {
+          "enabled": true,
+          "virtualKey": "VK_F1",
+          "holdMs": 300,
+          "afterDelayMs": 700
+        },
+        {
+          "enabled": true,
+          "virtualKey": "VK_3",
+          "holdMs": 250,
+          "afterDelayMs": 500
+        }
+      ]
+    }
+  ],
+  "activeProfile": "default"
+}

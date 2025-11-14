@@ -1,0 +1,27 @@
+﻿{
+  "name": "OneWay",
+  "margin": 5,
+  "bands": [
+    {
+      "yMin": 150,
+      "yMax": 180,
+      "minCx": 0,
+      "maxCx": 150,
+      "portalCx": 0,
+      "commands": [
+        "MoveRight",
+        "MoveLeft"
+      ]
+    },
+    {
+      "yMin": 0,
+      "yMax": 150,
+      "minCx": 0,
+      "maxCx": 150,
+      "portalCx": 0,
+      "commands": [
+        "Down"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "HuntMode",
+  "specMargin": 5,
+  "bindings": [
+    {
+      "key": 329,
+      "actionId": "ActionCopyItemName",
+      "isSync": true
+    },
+    {
+      "key": 337,
+      "actionId": "ActionPaste",
+      "isSync": true
+    },
+    {
+      "key": 312,
+      "actionId": "Test",
+      "isSync": true
+    },
+    {
+      "key": 83,
+      "actionId": "ActionCloseMacro",
+      "isSync": true
+    },
+    {
+      "key": 338,
+      "actionId": "HuntBand:TwistedTime",
+      "isSync": true
+    },
+    {
+      "key": 339,
+      "actionId": "ActionSellItem",
+      "isSync": true
+    }
+  ]
+}
