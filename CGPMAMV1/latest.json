@@ -1,7 +1,6 @@
 ﻿{
-  "latestVersion": "0.6.52",
-  "url": "https://github.com/ChaewonFans/CGPMAMV1/releases/download/v0.6.52/CGPMAMV1.zip",
-  "sha256": "4EC03EC667F16891C0E08FAE2883957ADD0B113E06B426DBF898A0FA464B7E5B",
-  "mandatory": false,
-  "notes": ""
+  "latestVersion": "0.6.53",
+  "version": "0.6.53",
+  "url": "https://github.com/ChaewonFans/CGPMAMV1/releases/download/v0.6.53/CGPMAMV1-v0.6.53.zip",
+  "sha256": "7389022d32cb9cd4a10b810e70003dbed5635114ed7cafad4e30078e688734ea"
 }
